@@ -1,0 +1,30 @@
+{
+  "documento_tipo": "boletim_conjuntura",
+  "periodo_referencia": "3T25",
+  "_nota": "Valores absolutos ILUSTRATIVOS para a demonstração offline (--mock). O boletim real só publica variações percentuais; os absolutos viriam das prévias operacionais de cada empresa via extração por LLM. Inclui 3T25, 2T25 e 3T24 para a API calcular variações T/T e A/A. VGV em R$ milhões.",
+  "metricas": [
+    {"empresa": "MRV", "ano": 2024, "trimestre": 3, "lancamentos_vgv": 2500.0, "lancamentos_unidades": 11000, "vendas_vgv": 2400.0, "vendas_unidades": 10500, "vso": 22.0},
+    {"empresa": "MRV", "ano": 2025, "trimestre": 2, "lancamentos_vgv": 2900.0, "lancamentos_unidades": 12000, "vendas_vgv": 2700.0, "vendas_unidades": 11500, "vso": 23.0},
+    {"empresa": "MRV", "ano": 2025, "trimestre": 3, "lancamentos_vgv": 3100.0, "lancamentos_unidades": 12500, "vendas_vgv": 2600.0, "vendas_unidades": 11200, "vso": 21.0},
+
+    {"empresa": "Cury", "ano": 2024, "trimestre": 3, "lancamentos_vgv": 1100.0, "lancamentos_unidades": 4000, "vendas_vgv": 1300.0, "vendas_unidades": 4500, "vso": 40.0},
+    {"empresa": "Cury", "ano": 2025, "trimestre": 2, "lancamentos_vgv": 1500.0, "lancamentos_unidades": 4800, "vendas_vgv": 1600.0, "vendas_unidades": 5200, "vso": 42.0},
+    {"empresa": "Cury", "ano": 2025, "trimestre": 3, "lancamentos_vgv": 1550.0, "lancamentos_unidades": 4900, "vendas_vgv": 1700.0, "vendas_unidades": 5400, "vso": 43.0},
+
+    {"empresa": "Tenda", "ano": 2024, "trimestre": 3, "lancamentos_vgv": 900.0, "lancamentos_unidades": 4200, "vendas_vgv": 950.0, "vendas_unidades": 4400, "vso": 30.0},
+    {"empresa": "Tenda", "ano": 2025, "trimestre": 2, "lancamentos_vgv": 1000.0, "lancamentos_unidades": 4500, "vendas_vgv": 1050.0, "vendas_unidades": 4700, "vso": 31.0},
+    {"empresa": "Tenda", "ano": 2025, "trimestre": 3, "lancamentos_vgv": 1310.0, "lancamentos_unidades": 5000, "vendas_vgv": 1090.0, "vendas_unidades": 4800, "vso": 32.0},
+
+    {"empresa": "Plano & Plano", "ano": 2024, "trimestre": 3, "lancamentos_vgv": 600.0, "lancamentos_unidades": 2800, "vendas_vgv": 700.0, "vendas_unidades": 3000, "vso": 38.0},
+    {"empresa": "Plano & Plano", "ano": 2025, "trimestre": 2, "lancamentos_vgv": 350.0, "lancamentos_unidades": 1900, "vendas_vgv": 800.0, "vendas_unidades": 3300, "vso": 39.0},
+    {"empresa": "Plano & Plano", "ano": 2025, "trimestre": 3, "lancamentos_vgv": 1070.0, "lancamentos_unidades": 3500, "vendas_vgv": 900.0, "vendas_unidades": 3600, "vso": 40.0},
+
+    {"empresa": "Direcional", "ano": 2024, "trimestre": 3, "lancamentos_vgv": 1200.0, "lancamentos_unidades": 5000, "vendas_vgv": 1250.0, "vendas_unidades": 5200, "vso": 28.0},
+    {"empresa": "Direcional", "ano": 2025, "trimestre": 2, "lancamentos_vgv": 1450.0, "lancamentos_unidades": 5600, "vendas_vgv": 1500.0, "vendas_unidades": 5900, "vso": 29.0},
+    {"empresa": "Direcional", "ano": 2025, "trimestre": 3, "lancamentos_vgv": 1840.0, "lancamentos_unidades": 6200, "vendas_vgv": 1600.0, "vendas_unidades": 6100, "vso": 30.0},
+
+    {"empresa": "Pacaembu", "ano": 2024, "trimestre": 3, "lancamentos_vgv": 400.0, "lancamentos_unidades": 2000, "vendas_vgv": 420.0, "vendas_unidades": 2100, "vso": 35.0},
+    {"empresa": "Pacaembu", "ano": 2025, "trimestre": 2, "lancamentos_vgv": 700.0, "lancamentos_unidades": 2900, "vendas_vgv": 650.0, "vendas_unidades": 2700, "vso": 36.0},
+    {"empresa": "Pacaembu", "ano": 2025, "trimestre": 3, "lancamentos_vgv": 740.0, "lancamentos_unidades": 3000, "vendas_vgv": 930.0, "vendas_unidades": 3400, "vso": 37.0}
+  ]
+}

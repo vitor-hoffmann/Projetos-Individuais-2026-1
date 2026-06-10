@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/catalog.db
+data/downloads/
+.pytest_cache/
+.venv/
+venv/
